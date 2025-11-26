@@ -1,6 +1,6 @@
 # Code Verification for *Generalization of Silver Stepsize Schedule to Stochastic Optimization*
 
-This repository contains the Mathematica notebooks and scripts used to verify several technical statements and footnotes in the accompanying paper:
+This repository contains the Mathematica notebooks and scripts used to verify several technical statements and footnotes in the paper:
 
 > **Generalization of Silver Stepsize Schedule to Stochastic Optimization**  
 > (Authors: *Luwei Bai*, *Yang Zeng*, *Baoyu Zhou*)  
